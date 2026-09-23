@@ -30,6 +30,11 @@ Barcode Interpretor (https://online-barcode-reader.inliteresearch.com/)
 
 [StegTool](https://georgeom.net/StegOnline/checklist)
 
+## DNS Lookup 
+
+- (https://dnsdumpster.com/) DNS Dumpster
+- (https://mxtoolbox.com/)
+- (https://digwebinterface.com/)
 
 ## WHOIS Lookup 
 
