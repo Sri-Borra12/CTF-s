@@ -13,6 +13,7 @@ https://docs.google.com/document/d/13jy41Ux-F66Oo_vcaxwJ4FohoUDDfTr5uWs0H60eRu4/
 To find the geolocation of an image or metadata - Use ExifTool
 1. (https://exif.tools/upload.php)
 2. (https://www.pic2map.com/) For location
+3. (https://start.me/p/7PmogA/osint) OSINT resources
 
 Kali Commands
 - file (filename).jpg
